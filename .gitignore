@@ -1,0 +1,6 @@
+compareImages.py
+rotateImg.py
+faceDetect.py
+venv/
+__pycache__/
+testImg/
